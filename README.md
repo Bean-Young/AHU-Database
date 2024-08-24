@@ -70,12 +70,12 @@ We sincerely apologize for the inconvenience, but three users have deactivated t
 
 Here are some of the author permission proofs we have obtained.
 
-![Sample 1](https://github.com/Bean-Young/Ultrasound-Dataset/blob/URLs/Permission%20Proof/Sample%201.png)
+![Sample 1](Permission%20Proof/Sample%201.png)
 
-![Sample 2](https://github.com/Bean-Young/Ultrasound-Dataset/blob/URLs/Permission%20Proof/Sample%202.png)
+![Sample 2](Permission%20Proof/Sample%202.png)
 
-![Sample 3](https://github.com/Bean-Young/Ultrasound-Dataset/blob/URLs/Permission%20Proof/Sample%203.png)
+![Sample 3](Permission%20Proof/Sample%203.png)
 
-![Sample 4](https://github.com/Bean-Young/Ultrasound-Dataset/blob/URLs/Permission%20Proof/Sample%204.png)
+![Sample 4](Permission%20Proof/Sample%204.png)
 
 We would like to extend our gratitude to all creators for their support. If you require more similar data, please visit [**Douyin**](www.douyin.com).
