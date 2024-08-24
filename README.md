@@ -26,9 +26,9 @@ Secondly, you need to run the [**DBSCAN.py**](DBSCAN.py) file to identify the no
 
 We have also provided the processed data files, resulting from these two steps, on Figshare under the title [Processed Data]().
 ## Technical Validation
-We use RVit to validate the dataset's validity. 
+We use ***RVit*** to validate the dataset's validity. 
 
-You need to run the [**Main.py**](Main.py) file in RVit. 
+You need to run the [**Main.py**](Rvit/main.py) file in RVit. 
 
 For specific steps and model details, please refer to the provided reference.
 ## Reference
