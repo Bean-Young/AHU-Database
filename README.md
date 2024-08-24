@@ -28,7 +28,7 @@ We have also provided the processed data files, resulting from these two steps, 
 ## Technical Validation
 We use ***RVit*** to validate the dataset's validity. 
 
-You need to run the [**Main.py**](RVit-main/main.py) file in RVit-main. 
+You need to run the [**Main.py**](RVIT-main/main.py) file in RVIT-main. 
 
 For specific steps and model details, please refer to the provided reference.
 ## Reference
