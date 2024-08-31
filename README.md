@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## ***Data Preprocessing***
 
-> The suitable data for this step is the Filtered Data. If you choose the Processed Data, you can skip this step.
+> The suitable data for this step is the **Filtered Data**. If you choose the Processed Data, you can skip this step.
 
 Data preprocessing is divided into two stages: 
 1) We convert the data into a uniform format 
