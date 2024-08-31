@@ -1,5 +1,5 @@
-# AHU-Dataset
-A Heterogeneous Ultrasound Dataset Collected from Publicly Available in China for Machine Learning Application
+# US-Dataset
+An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification
 
 ## Ver 2.0（PyTorch）
 
