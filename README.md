@@ -45,7 +45,7 @@ python DBSCAN.py
 
 We use ***RVit*** to validate the dataset's validity. We used Top-3 Accuracy (*Top3-ACC*) as the primary evaluation metric.
 
-You need to run the [**main.py**](RViT-main/main.py) file in RViT-main for the ultrasound symptom classification task on our dataset.
+You need to run the [`main.py`](RViT-main/main.py) file in RViT-main for the ultrasound symptom classification task on our dataset.
 
 For specific steps and model details, please refer to the provided reference.
 
