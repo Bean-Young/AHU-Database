@@ -26,7 +26,7 @@ pip install -r requirements.txt
 > The suitable data for this step is the **Filtered Data**. If you choose the Processed Data, you can skip this step.
 
 Data preprocessing is divided into two stages: 
-1) We convert the data into a uniform format 
+1) We convert the data into a NPY format 
 2) We generate a list of noisy data.
 
 Firstly, you need to run the [`To_NPY.py`](To_NPY.py) file to convert the video and image collections into numpy array format with a `.npy` extension. In this process, the code also handles frame extraction from videos and image cropping. 
