@@ -56,4 +56,10 @@ For specific steps and model details, please refer to the provided reference.
 ## ***Citations***
 
 ```
+@Manual{US-Dataset,
+	title = {An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification},
+	author = {Yuezhe Yang},
+	year = {2024},
+	url = {https://github.com/Bean-Young/US-Dataset/},
+}
 ```
