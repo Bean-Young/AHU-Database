@@ -55,7 +55,7 @@ For specific steps and model details, please refer to the provided reference.
 
 ## ***Citations***
 
-```
+``````bibtex
 @Manual{US-Dataset,
 	title = {An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification},
 	author = {Yuezhe Yang},
