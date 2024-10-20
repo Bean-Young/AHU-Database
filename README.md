@@ -78,4 +78,4 @@ Here are some of the author permission proofs we have obtained.
 
 ![Sample 4](Permission%20Proof/Sample%204.png)
 
-We would like to extend our gratitude to all creators for their support. If you require more similar data, please visit [**Douyin**](www.douyin.com).
+We would like to extend our gratitude to all creators for their support. If you require more similar data, please visit [**Douyin**](https://www.douyin.com).
