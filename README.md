@@ -1,6 +1,6 @@
 # US-Dataset
 
-This project is created by Yuezhe Yang for paper "**An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification**" ([Paper Link]()). 
+This project is created by ***Yuezhe Yang*** for paper "**An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification**" ([Paper Link]()). 
 
 ## ***Abstract***
 
