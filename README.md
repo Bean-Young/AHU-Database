@@ -8,7 +8,13 @@ Ultrasound is a primary diagnostic tool commonly used to evaluate internal body 
 
 ## ***Prepare Data***
 
-Our data is publicly available on [Figshare](). It includes Raw Data, Filtered Data, and Processed Data. If you choose the Raw Data, you will need to perform annotation and filtering yourself. We encourage you to explore and extract more valuable information from it.
+Our data is publicly available on [Figshare](). It includes **Raw Data**, **Filtered Data**, and **Processed Data**.
+
+- **Raw Data:** If you choose the Raw Data, you will need to perform annotation and filtering yourself. We encourage you to explore and extract more valuable information from it.
+- **Filtered Data:** If you choose the Filtered Data, the Data Preprocessing guidelines provided in this documentation will apply to your usage.
+- **Processed Data:** If you choose the Processed Data, please note that the provided `noise_files.txt` contains our absolute file paths. To ensure the data can be used correctly, run the `rename.py` script to update the paths.
+
+We hope this facilitates your research and exploration of our dataset.
 
 ## ***Set Up*** 
 
