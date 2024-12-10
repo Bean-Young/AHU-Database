@@ -55,7 +55,7 @@ You need to run the [`main.py`](RViT-main/main.py) file in RViT-main for the ult
 
 For specific steps and model details, please refer to the provided reference.
 
-## ***Reference***
+## ***References***
 * [RViT](https://github.com/Jiewen-Yang/RViT/)
 * [Visualizer](https://github.com/luo3300612/Visualizer)
 
