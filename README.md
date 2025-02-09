@@ -62,10 +62,13 @@ For specific steps and model details, please refer to the provided reference.
 ## ***Citations***
 
 ``````bibtex
-@manual{US-Dataset,
-	title = {An Ultrasound Dataset in the Wild for Machine Learning of Disease Classification},
-	author = {Yuezhe Yang},
-	year = {2024},
-	url = {https://github.com/Bean-Young/US-Dataset/},
+@article{yang2025annotated,
+  title={An annotated heterogeneous ultrasound database},
+  author={Yang, Yuezhe and Chen, Yonglin and Dong, Xingbo and Zhang, Junning and Long, Chihui and Jin, Zhe and Dai, Yong},
+  journal={Scientific Data},
+  volume={12},
+  number={1},
+  pages={148},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
-
