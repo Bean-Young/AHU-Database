@@ -2,6 +2,8 @@
 
 This project is created by ***Yuezhe Yang*** for paper "**An Annotated Heterogeneous Ultrasound Database**" ([Paper Link](https://www.nature.com/articles/s41597-025-04464-4)). 
 
+## [Project Page](https://ahudataset.github.io)
+
 ## ***Abstract***
 
 Ultrasound is a primary diagnostic tool commonly used to evaluate internal body structures, including organs, blood vessels, the musculoskeletal system, and fetal development. Due to challenges such as operator dependence, noise, limited field of view, difficulty in imaging through bone and air, and variability across different systems, diagnosing abnormalities in ultrasound images is particularly challenging for less experienced clinicians. The development of artificial intelligence (AI) technology could assist in the diagnosis of ultrasound images. However, many databases are created using a single device type and collection site, limiting the generalizability of machine learning models. Therefore, we have collected a large, publicly accessible ultrasound challenge database that is intended to significantly enhance the performance of AI-assisted ultrasound diagnosis. This database is derived from publicly available data on the Internet and comprises a total of 1,833 distinct ultrasound data. It includes 13 different ultrasound image anomalies, and all data have been anonymized. Our data-sharing program aims to support benchmark testing of ultrasound disease diagnosis in multi-center environments.
