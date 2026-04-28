@@ -2,7 +2,9 @@
 
 This project is created by [***Yuezhe Yang***](https://bean-young.github.io) for paper "**An Annotated Heterogeneous Ultrasound Database**" ([Paper Link](https://www.nature.com/articles/s41597-025-04464-4)). 
 
-### [Project Page](https://ahudataset.github.io)
+### [**Project Page**](https://bean-young.github.io/ahudataset/)
+
+### ***Scientific Data, 2025***
 
 ## ***Abstract***
 
